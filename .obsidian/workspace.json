@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bde7655f914dc3cf",
+        "id": "7804b3aa1aec8485",
         "type": "tabs",
         "children": [
           {
-            "id": "bf100a0d826bdc39",
+            "id": "047bddffa9edf241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/article.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "697b9d97b9d11cd1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "06a69b26673d684e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md"
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/article.md"
               }
             }
           }
@@ -164,19 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf100a0d826bdc39",
+  "active": "047bddffa9edf241",
   "lastOpenFiles": [
+    "国内 高速 下载 ffmpeg/article.md",
+    "mp3 播放器 ffmepg 转换 视频 为 amv/article.md",
+    "mp3 播放器 ffmepg 转换 视频 为 amv/1.保存为批处理脚本.png",
+    "mp3 播放器 ffmepg 转换 视频 为 amv/1.png",
+    "国内 高速 下载 ffmpeg/cover.png",
+    "国内 高速 下载 ffmpeg/2.配置环境变量.png",
+    "国内 高速 下载 ffmpeg/1.操作命令行工具的方法.png",
+    "Redmi 12C 解锁 刷机 Root 教程/article.md",
+    "Readme.md",
     "Markdown4Zhihu/Data/相机校准/image-20221027230723755.png",
     "Markdown4Zhihu/Data/相机校准/image-20221026175051047.png",
     "Markdown4Zhihu/Data/相机校准/image-20221026175034098.png",
     "Markdown4Zhihu/Data/相机校准/image-20221026171827629.png",
     "Markdown4Zhihu/Data/相机校准/image-20221026163826434.png",
-    "Markdown4Zhihu/Data/相机校准/image-20221026162455644.png",
-    "Markdown4Zhihu/Data/相机校准/image-20221026155238653.png",
-    "Markdown4Zhihu/Data/相机校准/image-20221026154924465.png",
-    "Markdown4Zhihu/Data/相机校准/image-20221026153649507.png",
-    "Markdown4Zhihu/Data/相机校准/image-20221021165722788.png",
-    "Markdown4Zhihu/Data/相机校准/image-20221021155115039.png",
     "Markdown4Zhihu/Data/相机校准.md",
     "Markdown4Zhihu/Data/相机校准",
     "Markdown4Zhihu/Data/完美使用Markdown在知乎编辑内容_for_zhihu.md",
@@ -208,10 +193,6 @@
     "Markdown4Zhihu-master/Data/Paper Reading -- Computational Imaging for Human Activity Analysis.md",
     "Markdown4Zhihu-master/README.md",
     "国内 高速 下载 ffmpeg/国内 高速 下载 配置 ffmpeg Windows10.md",
-    "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
-    "锐族 x02 用 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
-    "mp3 播放器 ffmepg 转换 视频 为 amv/锐族 x02 用 ffmepg 转换 视频 为 amv_for_zhihu.md",
-    "锐族 x02 用 ffmepg 转换 视频 为 amv/锐族 x02 用 ffmepg 转换 视频 为 amv_for_zhihu.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
