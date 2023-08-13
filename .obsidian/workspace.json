@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "1066747712290694",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde7655f914dc3cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf100a0d826bdc39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "697b9d97b9d11cd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06a69b26673d684e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c731e2ec12a6a70",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fe56ccacd508c36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7518fa6b7c48b2d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "388fd25e6e40875d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c43e26b6e491ca35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a534696aa3b535ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8dd3ce803cac41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73727e7be199e5c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7f0348104b166f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf20fc3f364ef055",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5746f3242fdbb6e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bf100a0d826bdc39",
+  "lastOpenFiles": [
+    "Markdown4Zhihu/Data/相机校准/image-20221027230723755.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026175051047.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026175034098.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026171827629.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026163826434.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026162455644.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026155238653.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026154924465.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221026153649507.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221021165722788.png",
+    "Markdown4Zhihu/Data/相机校准/image-20221021155115039.png",
+    "Markdown4Zhihu/Data/相机校准.md",
+    "Markdown4Zhihu/Data/相机校准",
+    "Markdown4Zhihu/Data/完美使用Markdown在知乎编辑内容_for_zhihu.md",
+    "Markdown4Zhihu/Data/完美使用Markdown在知乎编辑内容.md",
+    "Markdown4Zhihu/Data/完美使用Markdown在知乎编辑内容",
+    "Markdown4Zhihu/Data/如何无换行符复制PDF（论文）中的多行内容_for_zhihu.md",
+    "Markdown4Zhihu/Data/如何无换行符复制PDF（论文）中的多行内容_for_zhihu",
+    "Markdown4Zhihu/Data/如何无换行符复制PDF（论文）中的多行内容.md",
+    "Markdown4Zhihu/Data/如何无换行符复制PDF（论文）中的多行内容",
+    "Markdown4Zhihu/Data/一个测试文档_for_zhihu.md",
+    "Markdown4Zhihu/Data/一个测试文档.md",
+    "Markdown4Zhihu/Data/一个测试文档",
+    "Markdown4Zhihu/Data/Paper Reading -- Computational Imaging for Human Activity Analysis.md",
+    "Markdown4Zhihu/Data/Paper Reading -- Computational Imaging for Human Activity Analysis_for_zhihu.md",
+    "Markdown4Zhihu/Data/Paper Reading -- Computational Imaging for Human Activity Analysis",
+    "Markdown4Zhihu/zhihu-publisher.py",
+    "Markdown4Zhihu/README.md",
+    "Markdown4Zhihu/Data",
+    "Markdown4Zhihu",
+    "Markdown4Zhihu-master/Data/相机校准",
+    "Markdown4Zhihu-master/Data/相机校准.md",
+    "Markdown4Zhihu-master/Data/完美使用Markdown在知乎编辑内容_for_zhihu.md",
+    "Markdown4Zhihu-master/Data/完美使用Markdown在知乎编辑内容.md",
+    "Markdown4Zhihu-master/Data/如何无换行符复制PDF（论文）中的多行内容_for_zhihu.md",
+    "Markdown4Zhihu-master/Data/如何无换行符复制PDF（论文）中的多行内容.md",
+    "Markdown4Zhihu-master/Data/一个测试文档_for_zhihu.md",
+    "Markdown4Zhihu-master/Data/一个测试文档.md",
+    "Markdown4Zhihu-master/Data/Paper Reading -- Computational Imaging for Human Activity Analysis_for_zhihu.md",
+    "Markdown4Zhihu-master/Data/Paper Reading -- Computational Imaging for Human Activity Analysis.md",
+    "Markdown4Zhihu-master/README.md",
+    "国内 高速 下载 ffmpeg/国内 高速 下载 配置 ffmpeg Windows10.md",
+    "mp3 播放器 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+    "锐族 x02 用 ffmepg 转换 视频 为 amv/mp3 播放器 ffmepg 转换 视频 为 amv.md",
+    "mp3 播放器 ffmepg 转换 视频 为 amv/锐族 x02 用 ffmepg 转换 视频 为 amv_for_zhihu.md",
+    "锐族 x02 用 ffmepg 转换 视频 为 amv/锐族 x02 用 ffmepg 转换 视频 为 amv_for_zhihu.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
